@@ -1,0 +1,92 @@
+# =========================
+# Visual Studio user files
+# =========================
+.vs/
+*.user
+*.userosscache
+*.suo
+*.VC.db
+*.VC.opendb
+
+# =========================
+# Build output directories
+# =========================
+Debug/
+DebugPublic/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+bin/
+obj/
+out/
+build/
+
+# =========================
+# CMake (if used)
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.cmake
+out/
+
+# =========================
+# Compiled files
+# =========================
+*.obj
+*.o
+*.lo
+*.slo
+*.pdb
+*.idb
+*.ilk
+*.pch
+
+# =========================
+# Executables & libraries
+# =========================
+*.exe
+*.dll
+*.lib
+*.exp
+*.so
+*.a
+
+# =========================
+# Debug / profiler files
+# =========================
+*.log
+*.tlog
+*.lastbuildstate
+*.aps
+*.ncb
+*.opendb
+
+# =========================
+# Visual Studio cache
+# =========================
+ipch/
+
+# =========================
+# Resharper / extensions
+# =========================
+_ReSharper*/
+*.DotSettings.user
+
+# =========================
+# Windows junk
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Backup & temp files
+# =========================
+*.bak
+*.tmp
+*.temp
+*.swp
+*.swo
